@@ -1,0 +1,5 @@
+F:\Lab\Responsi MK Pemrograman\ProjectCustomer\ProjectCustomer\bin\Debug\ProjectCustomer.exe
+F:\Lab\Responsi MK Pemrograman\ProjectCustomer\ProjectCustomer\bin\Debug\ProjectCustomer.pdb
+F:\Lab\Responsi MK Pemrograman\ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.csprojResolveAssemblyReference.cache
+F:\Lab\Responsi MK Pemrograman\ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.exe
+F:\Lab\Responsi MK Pemrograman\ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.pdb
